@@ -1,0 +1,7 @@
+D:\Raya Project\Generics\NEWEDC\EDCAgent\obj\Debug\EDCAgent.csproj.AssemblyReference.cache
+D:\Raya Project\Generics\NEWEDC\EDCAgent\obj\Debug\EDCAgent.csproj.CoreCompileInputs.cache
+D:\Raya Project\Generics\NEWEDC\EDCAgent\bin\Debug\EDCAgent.exe
+D:\Raya Project\Generics\NEWEDC\EDCAgent\bin\Debug\EDCAgent.pdb
+D:\Raya Project\Generics\NEWEDC\EDCAgent\obj\Debug\EDCAgent.exe
+D:\Raya Project\Generics\NEWEDC\EDCAgent\obj\Debug\EDCAgent.pdb
+D:\Raya Project\Generics\NEWEDC\EDCAgent\bin\Debug\EDCAgent.exe.config
